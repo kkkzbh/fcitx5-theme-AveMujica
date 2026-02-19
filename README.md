@@ -2,6 +2,10 @@
 
 Ave Mujica 风格的 Fcitx5 Classic UI 主题，主色为 `#881144`，支持人物侧边装饰与可隐藏 LOGO。
 
+## 效果演示
+
+![AveMujica 主题效果](effect.png)
+
 ## 目录结构
 
 - 主题目录：`AveMujica/`
